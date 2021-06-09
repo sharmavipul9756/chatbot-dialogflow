@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393175968998",
+    "project_id": "internship-project-ad792",
+    "storage_bucket": "internship-project-ad792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393175968998:android:fb0cc66f553f9c1da91f27",
+        "android_client_info": {
+          "package_name": "com.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393175968998-kvhfgf0mmbbl9jg3u7atfn618n93b9c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQe5oOqmN5FU4QjqTg3hg6CSuA1PqEtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393175968998-6aavmkg888te1qaplp795hrla6g62gje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
